@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hadia</h1>
 <h3 align="center">A passionate coder from Islamabad, Pakistan</h3>
 
-<img width="544" alt="image" src="https://github.com/hadiashafqat/hadiashafqat/assets/81703234/49a045d8-b0a4-4ead-a19c-87fd52bff4f4">
+<img width="663" alt="image" src="https://github.com/hadiashafqat/hadiashafqat/assets/81703234/cd1bcd3a-d71d-44d1-89bb-f3191c361e99">
+
 
 
 
