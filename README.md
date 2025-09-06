@@ -1,18 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hadia</h1>
 <h3 align="center">A passionate coder from Islamabad, Pakistan</h3>
 
-<img width="663" alt="image" src="https://github.com/hadiashafqat/hadiashafqat/assets/81703234/cd1bcd3a-d71d-44d1-89bb-f3191c361e99">
 
 
 
-
-- 🔭 I’m currently working on [My Final Year Project- A Mobile App](https://github.com/HareemA/VanGo-React)
-
-- 🌱 I’m currently learning **MERN stack, Python and DSA**
-
-- 💬 Ask me about **React, Python, Javascript, SQL**
-
-- 📫 How to reach me **hadiashafqat29@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/hadia-shafqat-b04176280/](https://www.linkedin.com/in/hadia-shafqat-b04176280/)
 
